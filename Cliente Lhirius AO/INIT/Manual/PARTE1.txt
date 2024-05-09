@@ -1,0 +1,11 @@
+En una party los miembros reciben experiencia por cada criatura que un 
+miembro ataque, para formar una party simplemente deberan escribir /PARTY 
+despues de clikear al usuario que quieren invitar. El primero que haga la Party 
+sera el lider y solo ese podra agregar mas miembros, si un usuario sale del 
+juego ya no esta mas en la party y si el lider sale la party se termina. Tambien 
+se puede salir de la party sin salir del juego por medio del comando 
+/CANCELAR. Mediante el comando /PINFO tambien se puede ver 
+informacion de la party y con el comando /PMSG o seleccionado Party en el 
+menu de la H a lado de la barra de chat del cliente se puede hablar entre los 
+miembros de la party.
+Cuidado se recibe menos experiencia cuantos mas miembros alla en la Party.

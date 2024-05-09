@@ -1,0 +1,12 @@
+Línea 22: la clase vbalProgBarLib6.vbalProgressBar del control ProgressBar1 no era una clase de control cargada.
+Línea 14: la propiedad Icon de frmMain tenía una referencia a archivo no válida.
+Línea 28: el nombre de la propiedad _ExtentX de ProgressBar1 no es válido.
+Línea 29: el nombre de la propiedad _ExtentY de ProgressBar1 no es válido.
+Línea 30: la propiedad Picture de ProgressBar1 tenía una referencia a archivo no válida.
+Línea 34: el nombre de la propiedad BarForeColor de ProgressBar1 no es válido.
+Línea 35: el nombre de la propiedad BarPicture de ProgressBar1 no es válido.
+Línea 36: el nombre de la propiedad BarPictureMode de ProgressBar1 no es válido.
+Línea 37: el nombre de la propiedad BackPictureMode de ProgressBar1 no es válido.
+Línea 38: el nombre de la propiedad ShowText de ProgressBar1 no es válido.
+Línea 39: el nombre de la propiedad Text de ProgressBar1 no es válido.
+Línea 62: la propiedad TextRTF de RichTextBox1 tenía un valor no válido.

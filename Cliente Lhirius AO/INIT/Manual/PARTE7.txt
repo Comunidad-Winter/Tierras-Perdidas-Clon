@@ -1,0 +1,6 @@
+El sistema de Global es un sistema para hablar con todos los usuarios a la ves 
+que tengan habilitado el global. Para usarlo simplemente pones /GLOBAL y tu 
+mensaje o lo seleccionas de la H al lado de la barra de chat, tenes que tener 
+en cuenta que para mandar un mensaje por global debés ser como mínimo 
+nivel 40 y que cada mensaje sale 10.000 monedas de oro. Podes deshabilitar 
+los mensajes globales en cualquier momento por medio del comando /GLO.

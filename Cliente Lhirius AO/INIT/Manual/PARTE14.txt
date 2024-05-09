@@ -1,0 +1,17 @@
+Estas son las Zonas de Entrenamiento mas adecuadas segun nivel de tu personaje. Utiliza la tecla H para ver el Mapa del Mundo y tu pocicion.
+
+Lvl 1 a 10: Mapas: Dungeon Newbie.  NPCs: Lobos, Hormigas gigantes. Siendo Newbie no podras salir de la Ciudad Inicial (Tanaris)
+
+Lvl 10 a 20: Mapas: Debajo y al costado de Thir mapas 91 y 93 Npc: Orcos y Osos Pardos.
+
+Lvl 20 a 30: Mapas: 9, 11, Catacumbas (Entrada por mapa 18) y debajo y al costado de Thir mapas 91 y 93 Npc: Arañas, orcos, osos pardos.
+
+Lvl 30 a 35: Mapa: Polo Npc: Beholders, Yetis, menor medida Osos polares. Npc: Leviatanes, Barcos fantasma (Zonas de agua cerca de los dungeons con entrada en isla mapas 70 y 73)
+
+Lvl 35 a 40: Mapa: Polo, Dungeon del mapa 73 (101) Npc: Golem de Hierro, Golem de Plata, Yetis, Leviatanes, Barcos fantasma.
+
+Lvl 40 a 45: Mapa: Dungeon Inferno, Dungeon 70, Dungeon 73, Polo Npc: Yetis (lento), Golem de Hierro (Lento pero da lingotes), Golem de plata (Rinde en todo sentido), Guerrero oscuro (97), Troll (Lento 98), Apariciones (rinde, y tiene quest, 97, 102 y 103), Hechizero de la oscuridad (99, rinde), Dragon Rojo (Mucha D. Fisica, rinde para relampago mas que todos los anteriores, pero no es mucho mejor, Quest y oro, Dungeon Inferno), Demonios (lento, Dungeon Inferno), Barcos fantasma (rinde oro, y exp algo menos que el leviatan) y Leviatan (rinde muy buena exp hasta 45, y el oro no es despreciable)
+
+Lvl 45 a 50(Maximo): Tenes 2 opciones: Opcion 1) Seguir con los mismos NPCs del punto anterior, hasta 48 el entrenamiento seria mas lento pero mas seguro. Opcion 2) La segunda opcion seria ir ya al fondo de las dungeons del mapa 70 (Leric) , 73 (Dungeon Perdida) o 40 (Piramide Inthak) a entrenar con Gran Dragon de la Oscuridad, de Plata o Bestia infernal respectivamente, aunque es algo mas rapido es mucho mas peligoroso por la gran cantidad de gente de alto nivel o en grupo que se junta en esos mapas. Ya en 48, es hora de hacerse algunos amigos, clan, y salir de agite, es hora de jugar al AO!
+
+Entrenar en Party rinde mucho para niveles superiores a 45 donde la experiencia llega a pedir 999.999.999 por nivel.

@@ -1,0 +1,414 @@
+[INIT]
+NumPremios=29
+
+[PREMIO1]
+Nombre=Daga de Hielo
+NumObj=854
+Requiere=70
+AtaqueMinimo=11
+AtaqueMaximo=13
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=La antigua daga de hielo antes utilizada en Tierras Perdidas pero ahora al perecer tiene un gran poder.
+
+[PREMIO2]
+Nombre=Daga Envenenada
+NumObj=855
+Requiere=30
+AtaqueMinimo=5
+AtaqueMaximo=8
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Daga empapada de veneno. Puede apuñalar y envenenar a la victima.
+
+[PREMIO3]
+Nombre=Espada de las Almas
+NumObj=856
+Requiere=40
+AtaqueMinimo=16
+AtaqueMaximo=19
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Espada mágica echa con las almas de cientos de guerreros. Tiene un gran poder de ataque.
+
+[PREMIO4]
+Nombre=Armadura Heroica
+NumObj=857
+Requiere=70
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=68
+DefensaMaxima=70
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Armadura que pertenecio a uno de los heroes mas memorables de la historia. Es una coraza de gran resitenciante los ataques fisicos.
+
+
+[PREMIO5]
+Nombre=Armadura de Campeón
+NumObj=858
+Requiere=70
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=68
+DefensaMaxima=70
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Armadura que pertenecio a uno de los guerreros enanos mas famosos. Tiene una buena defensa contra ataques físicos.
+
+[PREMIO6]
+Nombre=Escudo de Dragón
+NumObj=859
+Requiere=60
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=23
+DefensaMaxima=25
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Escudo echo con las escamas de un Gran Dragón Rojo. Tiene un poder de defensa exepcional.
+
+[PREMIO7]
+Nombre=Espada Argentum
+NumObj=860
+Requiere=80
+AtaqueMinimo=5
+AtaqueMaximo=10
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=24
+AtaqueMagicoMaximo=27
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Una de las primeras armas creadas por los dioses. Posee un enorme poder ofensivo.
+
+[PREMIO8]
+Nombre=Casco Oscuro
+NumObj=861
+Requiere=70
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=30
+DefensaMaxima=35
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Casco creado en tiempos antiguos por las artes oscuras su resistencia a los ataques fisicos es muy alta.
+
+[PREMIO9]
+Nombre=Corona
+NumObj=862
+Requiere=100
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=25
+DefensaMagicaMaxima=28
+Descripcion=Corona que pertenecio a un Dios. Tiene un enorme poder de resistencia mágica.
+
+[PREMIO10]
+Nombre=Espada del Barlog
+NumObj=863
+Requiere=140
+AtaqueMinimo=26
+AtaqueMaximo=27
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Perteneciente al demonio Balrog es considerada la espada mas poderosa que haya existido. Su poder de ataque es devastador.
+
+[PREMIO11]
+Nombre=Daga Infernal
+NumObj=864
+Requiere=130
+AtaqueMinimo=12
+AtaqueMaximo=14
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Creada en lo profundo de los infiernos esta daga puede atravesar cualquier defensa y causar un gran daño a la victima.
+
+[PREMIO12]
+Nombre=Cetro de Archimago
+NumObj=865
+Requiere=150
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=35
+AtaqueMagicoMaximo=40
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Pertenecio a uno de los magos mas poderosos que existieron. Puede aumentar enormemente el poder de los hechizos.
+
+[PREMIO13]
+Nombre=Anillo de los Dioses
+NumObj=866
+Requiere=160
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=15
+DefensaMagicaMaxima=18
+Descripcion=Anillo creado por los dioses que da a quien lo lleve una increible resistencia a los ataques mágicos.
+
+
+[PREMIO14]
+Nombre=Armadura de Dragón Oscuro (Altos)
+NumObj=867
+Requiere=150
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=68
+DefensaMaxima=72
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Echo del material mas duro del mundo las escamas del Gran Dragon de la Oscuridad. Defendera a quien la use de casi cualquier ataque físico.
+
+[PREMIO15]
+Nombre=Armadura de Dragón Oscuro (Bajos)
+NumObj=868
+Requiere=150
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=68
+DefensaMaxima=72
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Echo del material mas duro del mundo las escamas del Gran Dragon de la Oscuridad. Defendera a quien la use de casi cualquier ataque físico.
+
+[PREMIO16]
+Nombre=Arco Argentum
+NumObj=869
+Requiere=130
+AtaqueMinimo=15
+AtaqueMaximo=17
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Arco hecho por los dioses en las primeras eras del mundo.
+
+[PREMIO17]
+Nombre=Túnica de Apocalipsis (Altos)
+NumObj=870
+Requiere=180
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=15
+DefensaMaxima=25
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=15
+DefensaMagicaMaxima=20
+Descripcion=La túnica mas poderosa que la clase mágica pueda usar.
+
+[PREMIO18]
+Nombre=Túnica de Apocalipsis (Bajos)
+NumObj=871
+Requiere=180
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=15
+DefensaMaxima=25
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=15
+DefensaMagicaMaxima=20
+Descripcion=La túnica mas poderosa que la clase mágica pueda usar. Para Enanos y Gnomos.
+
+[PREMIO19]
+Nombre=Manto Alado (Altos)
+NumObj=872
+Requiere=220
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=45
+DefensaMaxima=50
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=10
+DefensaMagicaMaxima=15
+Descripcion=Tunica echa por los dioses en tiempos antiguos. Se dice que el que la use sera invencible.
+
+[PREMIO20]
+Nombre=Manto Alado (Bajos)
+NumObj=873
+Requiere=220
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=45
+DefensaMaxima=50
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=10
+DefensaMagicaMaxima=15
+Descripcion=Tunica echa por los dioses en tiempos antiguos. Se dice que el que la use sera invencible.
+
+
+[PREMIO21]
+Nombre=Amuleto del lider
+NumObj=874
+Requiere=600
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Esta mágico amuleto permitira a quien lo posea fundar su propio clan (1 USO).
+
+[PREMIO22]
+Nombre=Pendiente del Sacrificio
+NumObj=875
+Requiere=120
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Al portador de este pendiente no se le caeran los objetos al morir (1 USO).
+
+[PREMIO23]
+Nombre=Insurrección Sombria
+NumObj=1
+Requiere=80
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Este manuscrito de magia negra posee informacion unica para el aprendizaje del hechizo mas poderoso jamaz visto para Magos.
+
+[PREMIO24]
+Nombre=Prisión Gelida
+NumObj=1
+Requiere=80
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Entre los escombros tapados por la nieve en el polo de Tierras Perdidas se encontro este manuscrito que explica el uso del hechizo mas poderoso de los Clerigos de antaño.
+
+
+[PREMIO25]
+Nombre=Fuego Divino
+NumObj=1
+Requiere=80
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Un hechizo de origen divino descubierto por antiguos guerreros que practicaban las artes magicas llamados Paladines.
+
+[PREMIO26]
+Nombre=Infierno
+NumObj=1
+Requiere=80
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Estos textos encontrados en lo profundo del dungeon infernal hablan del poder mas destacado de los antiguos Asesinos. Dicen que con el uso de este poder son capaces de matar antes de dar ninguna oportunidad.
+
+
+[PREMIO27]
+Nombre=Viento Huracanado
+NumObj=1
+Requiere=80
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=De generacion en generacion se utilizo esta informacion para el aprendizaje del manejo de los vientos en Tierras Perdidas. El poder debastador de este movimiento asegura la ventaja de los Bardos en combate.
+
+[PREMIO28]
+Nombre=Pergamino de Regreso
+NumObj=1
+Requiere=5
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Este pergamino contiene un hechizo que al usarlo te permitira regresar a tu ciudad de origen. 1 USO. 
+
+
+[PREMIO29]
+Nombre=Laud Mágico
+NumObj=1
+Requiere=0
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=16
+AtaqueMagicoMaximo=25
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Este legendario Laud Mágico potencia los ataques de los Bardos.

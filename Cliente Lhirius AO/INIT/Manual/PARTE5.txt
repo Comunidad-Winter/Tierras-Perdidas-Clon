@@ -1,0 +1,37 @@
+El Mundo de las Tierras Perdidas consiste en 121 mapas, para verlo 
+pueden ir al menu MAPA del cliente. Todos los personajes nacen en la 
+ciudad del mapa 28 llamada Tanaris, y de ahi al llegar a nivel 10 pueden 
+elegir el bando que quieran entre la Horda o Alianza con el comando 
+/HORDA o /ALIANZA, si se desea tambien se puede permanecer Neutral. 
+Una ves seleccionado el bando seran transportados a alguna de las 2 
+ciudades faccionarias: Kahlimdor para la Horda o Anvilmar para la Alianza. 
+En cuanto al entrenamiento existen 5 dungeons.
+La inicial o newbie dungeon: se encuentra en el mapa de la ciudad inicial 
+llendo arriba a la derecha de la casa donde nacen encontraran el teleport 
+de entrada. Esta dungeon tiene bichos de bajo nivel como lobos, 
+serpientes y hormigas gigantes.
+Ciudades neutrales: Thir, una ciudad de paso al mapa del polo, y Ruvendel en el norte abajo del Dungeon Infierno
+Catacumbas: Tiene criaturas como arañas y orcos, conecta las 3 ciudades 
+principales mas rapido que llendo por el camino comun, se puede usar de 
+entrenamiento especialmente las arañas dan una buena cantidad de oro y 
+experiencia. La entrada es en el mapa 18 20 y 1
+Dungeon del Desierto: Esta en el desierto en el mapa 40 tiene criaturas 
+como Batset, Corredor y Esfinge, es recomendada para niveles intermedios 
+y en el final de la dungeon esta el demonio de enlistacion de 4ta jerarquia 
+de la Horda.
+Dungeon Veriil: Como las de Alkon tienen dragones, golems, medusas, 
+liches y ademas golems dorados y dragones de plata. Esta en el mapa 73 
+en una isla la entrada es como una boca.
+Torre: Esta dungeon consta de 4 pisos esta en una isla del mapa 70 y 
+aparece cuando uno se acerca bastante. Tiene muchos tipos de criaturas, 
+en el ultimo piso tiene dragones de plata y oscuros y golems de oro bronce 
+y plata. En esta dungeon esta el Rey de enlistacion de la 4ta jerarquia de 
+la Alianza. Es un lugar recomendado para los niveles altos.
+
+Otros lugares son:
+El polo que esta en los mapas 76 77 37 35 y 36, en este mapa hay 
+Beholders helados, Yetis, Osos Polares y Freezers.
+El bosque de los mapas 90 y 92
+El Desierto de los mapas 38 39 y 40 y el campo de afuera de las ciudades.
+En el mapa 100 esta la zona de torneos y en el 78 la carcel.
+Los mapas 72 y 26 no estan habilitados.

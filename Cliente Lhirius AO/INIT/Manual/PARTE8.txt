@@ -1,0 +1,8 @@
+Si deseas poner un item a la venta y que la gente ofresca dinero por el podés 
+usar el sistema de subasta. Simplemente escribís /SUBASTAR y saldra un formulario
+donde elegis el items a subastar. La gente podra ofrecer dinero por 
+medio del comando /OFRECER CANTIDAD siempre que la oferta sea por lo 
+menos 10 monedas de oro mas que la anterior. Para saber que subastas se 
+estan realizando actualmente pones /INFOSUB y si deseas cancelar tu 
+subasta simplemente pone /FINSUBASTA. Tené en cuenta que mientras 
+estes subastando no podes salir del juego.

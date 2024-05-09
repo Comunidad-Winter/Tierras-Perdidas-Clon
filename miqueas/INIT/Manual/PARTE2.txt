@@ -1,0 +1,7 @@
+Uno puede duelear contra un usuario en cualquier momento por medio del 
+comando /DUELO NICK@ORO , minimo de ORO 200.000 usando este comando seran llevados a un mapa 
+especial sin mas gente que los 2 que pelean y en donde al morir los items no 
+se caen, el ganador se lleva el doble del oro apostado. 
+Cuando 2 personajes se enfrenten en torneo sera avisado por consola a todos 
+los usuarios con el global habilitado y tambien se avisara el ganador.
+Si te quedas atrapado en un duelo o queres salir solo pone /ABANDONAR.

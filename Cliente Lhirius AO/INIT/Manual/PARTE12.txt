@@ -1,0 +1,14 @@
+Las Gemas se consiguen al morir ciertas criaturas, a continuacion una descripcion de cada una y como conseguirlas:
+
+CELESTE: Yeti. Drop: 0.5% de posibilidad con 0 en suerte , 0.8% con 100 en suerte , 1% con gema lila. Efecto: Daño magico se reduce 10%
+ROJA: Gran Dragon Rojo. Drop: 1% de posibilidad con 0 en suerte , 1.5% con 100 en suerte , 2% con gema lila. Efecto: Cada unos segundos se regenera 15% de la vida.
+PLATEADA: Gran Dragon Plateado. Drop: 2% de posibilidad con 0 en suerte , 3% con 100 en suerte , 4% con gema lila. Efecto: Los bichos dan un 50% mas de experiencia.
+VIOLETA: Gran Dragon Negro. Drop: 2.5% de posibilidad con 0 en suerte , 3.5% con 100 en suerte , 5% con gema lila. Efecto: 50 % de posibilidad de envenenar al pegar (El efecto del veneno fue aumentado)
+NARANJA: Golem de Oro. Drop: 1.5% de posibilidad con 0 en suerte , 2.5% con 100 en suerte , 3% con gema lila. Efecto: Las criaturas dan un 100% mas de oro al morir.
+AZUL: Hechicero de la Oscuridad. Drop: 0.3% de posibilidad con 0 en suerte , 0.4% con 100 en suerte , 0.6% con gema lila. Efecto: La mana se regenera cada unos segundos un 10%.
+VERDE: Bestia Infernal. Drop: 2% de posibilidad con 0 en suerte , 3% con 100 en suerte , 4% con gema lila. Efecto: 10% de resistencia a daño fisico.
+LILA: Aparicion. Drop: 0.2% de posibilidad con 0 en suerte , 0.3% con 100 en suerte , 0.4% con gema lila. Efecto: Los NPC tienen un 50% mas de posibilidad de tirar buenos objetos (Incluye otras gemas).
+
+PARA ACTIVAR EL PODER DE UNA GEMA PONE "U" COMO SI FUERA UNA POTA. NO SE QUEMAN, SE CAEN AL MORIR (ESEPTO CON PENDIENTE), LOS EFECTOS NO FUNCIONAN EN MAPAS DE DUELO TORNEO CVC 2 VS 2 Y DESAFIO.
+
+CON 8 GEMAS DE DISTINTO COLOR PONES /GEMAS Y PODES CANJEAR UN PREMIO: 250 PUNTOS O 1 UNICORNIO O 100 SKILLS PARA ASIGNAR O 15.000.000 DE MONEDAS DE ORO.

@@ -1,0 +1,7 @@
+Los premios son items especiales que no se consiguen de otro modo. Para 
+poder canjear estos items se nesesitan puntos de torneo, los cuales pueden 
+ser obtenidos ganando Torneos o Quest que realizen los GMs y mediante las 
+guerras faccionarias o cuando llegas a la cuarta jerarquía. Estos items 
+especiales caen al morir pero son mucho mejores que los items que se pueden 
+comprar en los vendedores comunes. Estos items no pueden ser vendidos a 
+NPCs, si a usuarios.

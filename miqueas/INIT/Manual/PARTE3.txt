@@ -1,0 +1,2 @@
+Se puede conseguir un Unicornio canjeandolo como premio al juntar las 8 gemas. No ofrece bonificacion alguna solo el tener la mascota.
+Al elegir el Unicornio como premio se agregara el hechizo 'invocar mascota' con lo que podran llamar a su mascota. Para interactuar con ella solo hacele click derecho ensima. Para revivirla anda a un cura y pone /RESMASCOT.

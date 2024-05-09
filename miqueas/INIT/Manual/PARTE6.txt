@@ -1,0 +1,12 @@
+En este mundo existen 3 facciones: Alianza, Horda y Neutral. Un personaje 
+siempre empiesa como neutral y puede seguir siendolo siempre. La faccion 
+se puede elegir al llegar a nivel 10 y perder la condicion de newbie. Las 
+facciones tienen 4 rangos o jerarquias sin contar la de antes de enlistarse. 
+Para pasar de rango se nesesitan 250 criminales en la Alianza y 250
+ciudadanos en la Horda. Una ves alcanzada la 3ra jerarquia se puede ir a 
+una dungen a pedir /RECOMPENSA en el rey o demino especial y este les 
+da la 4ta jerarquia si tienen 1000 criminales matados para la Alianza o 1000 
+ciudadanos matados para la Horda. El premio de la 4ta jerarquia es la 
+habilidad de convertirse en Angel o Demonio, tambien un arma o hechizo 
+especial y la armadura o tunica de la 4ta jerarquia. Un mensaje por consola 
+saldra avisando cuando un usuario llege a este nivel.

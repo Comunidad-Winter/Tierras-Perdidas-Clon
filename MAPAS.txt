@@ -1,0 +1,49 @@
+1: Althalos (YA ESTA CREADO, FALTA PONER EL NOMBRE NADA MAS)
+2: Bosque Norte
+3: Castillo Oeste
+4: Cercanias al Polo Norte
+5: Cercanias al Dungeon Helado
+6: Polo Norte
+7: Polo Norte
+8: Polo Norte
+9: Castillo Norte
+10: Cercanias al Castillo
+11: Heidegger
+12: Cercanias al Dungeon Stilerech
+13: Castillo Este
+14: Cercanias al Castillo Este
+15: Mar profundo
+16: Adelaide
+17: Desierto
+18: Cercanias al Dungeon Oscuro
+19: Desierto
+20: Desierto
+21: Cercanias al Castillo Sur
+22: Desierto
+23: Bosque perdido
+24: Bosque perdido
+25: Bosque perdido
+26: Cercanias a Althalos
+27: Bosque Norte
+28: Bosque Norte
+29: Bosque Norte
+30: Mar contaminado
+31: Mar contaminado
+32: Mar contaminado
+33: Cercanias a Althalos
+34: Mar profundo
+35: Cercanias a Althalos
+36: Mar Contaminado
+38: Castillo Sur.
+
+NOTAS:
+-ALTHALOS (MAPA1) ES LA CIUDAD PRINCIPAL (DE ENCUENTRO).
+
+-HEIDEGGER (MAPA11) ES LA CIUDAD DE LOS ALIANZAS (DEL REY).
+
+-ADELAIDE (MAPA16) ES LA CIUDAD DE LOS HORDAS (CAOS).
+
+-LOS CASTILLOS LOS PODES HACER IGUALES PERO LES CAMBIAS LOS TERRENOS SEGUN LOS MAPAS DE ALREDEDOR.
+POR EJEMPLO AL CASTILLO ESTE (MAPA13) HACELO EN UNA ISLA. ¿SE ENTIENDE?
+
+-LOS MAPAS 5, 12, 18 SON ENTRADAS A DUNGEONS.

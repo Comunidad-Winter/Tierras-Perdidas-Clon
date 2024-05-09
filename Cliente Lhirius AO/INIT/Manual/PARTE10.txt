@@ -1,0 +1,15 @@
+El administrador realizará eventos llamados "Guerra Faccionaria", 
+en el cual se enfrentan dos bandos, el bando de los "Horda" contra el 
+bando de "Alianza". Para poder participar necesitarás pertenecer en una 
+de las dos facciones. Si perteneces a alguna y el evento se realiza, para 
+participar se ingresa el comando /GUERRA, y serás transportado a la zona 
+de batalla, en el cuál deberás tomar el cargo de defensor o atacante.
+Si tu deber es ser defensor, deberás impedir el ingreso de intrusos y de que 
+maten al rey de tu castillo.
+Si tu deber es ser atacante, deberás ingresar a los castillos oponentes y 
+hacer todo lo posible para derribar con su rey. 
+Los participantes ganadores se llevaran 5 puntos de torneo y el que mate 
+al 
+rey 20 puntos. Los miembros de un mismo bando no se podran atacar. 
+Nota: Si 
+el rey no muere en 10 minutos se tomara como ganador al bando defensor.

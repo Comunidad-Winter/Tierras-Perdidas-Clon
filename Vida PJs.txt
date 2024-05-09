@@ -1,0 +1,307 @@
+
+Mago
+
+
+Humano:
+
+Lvl10: 90+
+
+Lvl30: 237+
+
+Lvl50: 380+
+
+Elfo:
+
+Lvl10: 87+
+
+Lvl30: 225+
+
+Lvl50: 360+
+
+
+Elfo drow:
+
+Lvl10: 89+
+
+Lvl30: 225+
+
+Lvl50: 360+
+
+Enano:
+
+Lvl10: 91+
+
+Lvl30: 244+
+
+Lvl50: 400+
+
+Gnomo:
+
+Lvl10: 80+
+
+Lvl30: 209+
+
+Lvl50: 330+
+
+Bardo o Clerigo:
+
+
+Humano:
+
+Lvl10: 103+
+
+Lvl30: 275+
+
+Lvl50: 435+
+
+Elfo:
+
+Lvl10: 98+
+
+Lvl30: 255+
+
+Lvl50: 405+
+
+
+Elfo drow:
+
+Lvl10: 100+
+
+Lvl30: 265+
+
+Lvl50: 420+
+
+Enano:
+
+Lvl10: 107+
+
+Lvl30: 285+
+
+Lvl50: 470+
+
+Gnomo:
+
+Lvl10: 95+
+
+Lvl30: 240+
+
+Lvl50: 390+
+
+Druida:
+
+Humano:
+
+Lvl10: 94+
+
+Lvl30: 260+
+
+Lvl50: 410+
+
+Elfo:
+
+Lvl10: 91+
+
+Lvl30: 225+
+
+Lvl50: 390+
+
+
+Elfo drow:
+
+Lvl10: 93+
+
+Lvl30: 245+
+
+Lvl50: 400+
+
+Enano:
+
+Lvl10: 96+
+
+Lvl30: 270+
+
+Lvl50: 425+
+
+Gnomo:
+
+Lvl10: 86+
+
+Lvl30: 195+
+
+Lvl50: 360+
+
+Asesino:
+
+
+Humano:
+
+Lvl10: 94+
+
+Lvl30: 260+
+
+Lvl50: 410+
+
+Elfo:
+
+Lvl10: 91+
+
+Lvl30: 225+
+
+Lvl50: 390+
+
+
+Elfo drow:
+
+Lvl10: 93+
+
+Lvl30: 245+
+
+Lvl50: 400+
+
+Enano:
+
+Lvl10: 96+
+
+Lvl30: 270+
+
+Lvl50: 425+
+
+Gnomo:
+
+Lvl10: 87+
+
+Lvl30: 200+
+
+Lvl50: 370+
+
+Paladin:
+
+
+Humano:
+
+Lvl10: 115+
+
+Lvl30: 310+
+
+Lvl50: 500+
+
+Elfo:
+
+Lvl10: 106+
+
+Lvl30: 285+
+
+Lvl50: 480+
+
+
+Elfo drow:
+
+Lvl10: 110+
+
+Lvl30: 295+
+
+Lvl50: 490+
+
+Enano:
+
+Lvl10: 118+
+
+Lvl30: 320+
+
+Lvl50: 520+
+
+Gnomo:
+
+Lvl10: 107+
+
+Lvl30: 285+
+
+Lvl50: 470+
+
+Guerrero:
+
+
+Humano:
+
+Lvl10: 122+
+
+Lvl30: 340+
+
+Lvl50: 555+
+
+Elfo:
+
+Lvl10: 115+
+
+Lvl30: 310+
+
+Lvl50: 500+
+
+
+Elfo drow:
+
+Lvl10: 118+
+
+Lvl30: 333+
+
+Lvl50: 518+
+
+Enano:
+
+Lvl10: 125+
+
+Lvl30: 345+
+
+Lvl50: 575+
+
+Gnomo:
+
+Lvl10: 110+
+
+Lvl30: 295+
+
+Lvl50: 490+
+
+Cazador:
+
+
+Humano:
+
+Lvl10: 108+
+
+Lvl30: 285+
+
+Lvl50: 495+
+
+Elfo:
+
+Lvl10: 107+
+
+Lvl30: 285+
+
+Lvl50: 470+
+
+
+Elfo drow:
+
+Lvl10: 106+
+
+Lvl30: 293+
+
+Lvl50: 480+
+
+Enano:
+
+Lvl10: 115+
+
+Lvl30: 315+
+
+Lvl50: 515+
+
+Gnomo:
+
+Lvl10: 97+
+
+Lvl30: 273+
+
+Lvl50: 440+

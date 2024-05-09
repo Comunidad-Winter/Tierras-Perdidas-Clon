@@ -1,0 +1,38 @@
+/subastar: este comando sirve para poder subastar a todo 
+el 
+server un item en particular. Para que este comando funcione tendran que 
+poner el item a subastar debajo de ustedes
+/infosub: Este comando sirve para poder ver que item se esta subastando, 
+quien lo esta subastando, quien fue el ultimo ofrecedor y cuanto ofrecio
+/transferir (nick)
+/global: Sirve para comunicarte con toda la comunidad del server, en 
+mensajes que veran todos los usuarios. Cada mensaje sale 10.000 
+monedas
+/glo: sirve para cancelar o habilitar los globales
+/msj: habilita o deshabilita los mensajes privados
+/daroro (nick)@(cantidad): este comando sirve para darle oro a un usuario
+/torneo: sirve para para inscribirte en un torneo
+/demonio: sirve para comvertirse en demonio una ves llegada a la 4ta 
+jerarkia 
+de la Horda
+/angel: sirve para conbertirse en angel una ves llegada a la 4ta jerarkia de 
+la 
+Alianza
+/viajar: este comando sirve para viajar a distintas ciudades pero solo sirve 
+cuando clikeamos ensima del Viajero
+/cirujia (numero): sirve para cambiarte el rostro
+/apostar (cantidad): este comando sirve para apostar oro en el apostador
+/guerra: Este comando te enviara instantaneamente a la guerra que se 
+esta 
+efectuando en ese instante entre Alianza y Horda
+/alianza: Al dejar de ser newbie podras enlistarte inmediatamente con este 
+comando a las fuerzas del Bien
+/horda: Al dejar de ser newbie podras enlistarte inmediatamente con este 
+comando a las fuerzas del Mal
+/onlinegm: Te muestra los Game Masters que estan conectados en el 
+Servidor
+/duelo (nick)@(apuesta): Desafia a un usuario a combatir en un duelo
+/ranking: ves los usuarios que mas duelos ganaron
+/party: ofreces party al ultimo usuario que clickeaste
+/clan: con este comando el lider de un clan ve donde estan los 
+miembros

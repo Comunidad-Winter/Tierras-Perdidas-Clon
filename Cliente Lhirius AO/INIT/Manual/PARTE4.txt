@@ -1,0 +1,30 @@
+Los Castillos están ubicados en los mapas 31, 32, 33, 34. Cada castillo 
+tiene un Rey que el clan debera matar para conquistarlo.
+Para poder ver quien tiene los castillos conquistados en el momento 
+pueden hacer un click en el botón CASTILLOS que se encuentra en la 
+parte inferior de la pantalla.
+Cuando un clan esta atacando al rey del castillo aparecerá un mensaje en 
+la consola en el cual advierte sobre los reiterados ataques al rey. Hasta no 
+sacarle 1.000 de vida de sus 30.000 puntos de vida que posee no dejara 
+de advertir que lo están atacando.
+Solo un usuario con clan puede atacar a un Rey. El rey se encuentra al 
+norte del castillo en una habitación, al matarlo aparecerá en la consola: "El 
+castillo del mapa xx ha sido conquistado por el clan xx" y el Rey 
+reaparecera curado y al servicio del clan que conquistó el castillo.
+
+
+Bonificaciones de Conquista:
+
+    * Al conquistar un castillo obtendran oro cada una hora (Tiempo iniciado 
+desde la conquista del castillo), este oro se reparte por la cantidad de 
+miembros del clan conectados. Cuantos mas miembros menos oro para 
+cada uno y viceversa.
+
+    * Al poseer un castillo puedes transportarte hacia él por medio del botón 
+ir al castillo del menu CASTILLOS, al presionarlo se abrirá otra ventana en 
+la cual tenes que poner él numero del castillo al que queres ir (Siempre y 
+cuando sea tuyo) y te transportara de inmediato hacia él.
+
+    * Podras comprar NPcs de defensa o ayuda usando los GPS (Guild Points).
+   
+    * Si tenes los 4 castillos ganaras 10 puntos de torneo por hora.
